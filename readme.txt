@@ -1,3 +1,1 @@
-jkasdlg
-jklasdjflk
-ss
+第一次学习git，练习文件上传与更新等命令。
